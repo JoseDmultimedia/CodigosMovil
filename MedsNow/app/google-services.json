@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64155118513",
+    "firebase_url": "https://medsnow-4775a.firebaseio.com",
+    "project_id": "medsnow-4775a",
+    "storage_bucket": "medsnow-4775a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64155118513:android:f785b3e5532d5efc762b90",
+        "android_client_info": {
+          "package_name": "com.example.medsnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64155118513-npgaqrvov7t33tfs81mmr3avjvqdfbjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medsnow",
+            "certificate_hash": "654e9bd89a3cfa694f31dd55f7b8a032091ed258"
+          }
+        },
+        {
+          "client_id": "64155118513-5mtankusscjn8pggcs8nfabvht39mcg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0GDh3Z0hPM6J_tjEv7S5I2DxPvgiIdrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64155118513-5mtankusscjn8pggcs8nfabvht39mcg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
